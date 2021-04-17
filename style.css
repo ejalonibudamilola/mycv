@@ -1,0 +1,130 @@
+body{
+    background-color: bisque;
+}
+.whole{
+    margin: 0 15% 0 15%;
+    background-color: white;
+    padding: 2%;
+}
+
+.address{
+    float: right;
+}
+
+.address ul li{
+    list-style-type: none;
+    font-size: 12px;
+}
+
+.name{
+    margin-top: 7%;
+    background-color: #5f7ba0c9;
+    color: white;
+}
+
+.name h2{
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.name h4{
+    margin-top: -3%;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.summary{
+    display: flex;
+    margin-top: -4%;
+}
+
+.summary p{
+    padding-left: 6px;
+}
+
+.bio{
+    display: flex;
+}
+
+.bio ul{
+    padding-left: 7%;
+}
+
+.bio ul li{
+    list-style-type: none;
+}
+
+.skills{
+    display: flex;
+}
+
+.skills ul{
+    margin-left: -5%;
+}
+
+.work{
+    display: flex;
+    padding-left: 5%;
+}
+
+.work .body{
+    margin-left: 3%;
+}
+
+.first{
+    margin-top: -3%;
+}
+
+.education{
+    display: flex;
+}
+
+.education .body{
+    margin-left: 5%;
+}
+
+.date{
+    margin-top: -3%;
+    font-size: 12px;
+}
+
+.communication{
+    display: flex;
+}
+
+.communication p{
+    margin-left: 4%;
+}
+
+.certification{
+    display: flex;
+}
+
+.certification .other{
+    margin-left: 1%;
+}
+
+.other ul li{
+    list-style-type: none;
+}
+
+.hobbies{
+    display: flex;
+}
+
+/* .hobbies p{
+    padding-left: 3%;
+} */
+
+.references{
+    display: flex;
+}
+
+.references p{
+    padding-left: 3%; 
+}
+
+hr{
+    border-color: grey;
+}
